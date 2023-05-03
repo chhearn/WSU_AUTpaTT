@@ -1,0 +1,19 @@
+{
+    "frequency"        : 2.42e9,
+    "filename"         : "_antenna_data.csv",
+    "notes"            : "Experiment",
+    "mast_start_angle" : -180,
+    "mast_end_angle"   : 180,
+    "mast_steps"       : 181,
+    "arm_start_angle"  : 0.0,
+    "arm_end_angle"    : 0.0,
+    "arm_steps"        : 1,
+    "tx_radio_id"      : "56a75f",
+    "rx_radio_id"      : "61555f",
+    "tx_freq_offset"   : 0,
+    "rx_freq_offset"   : -7e3,
+    "data_port"        : 8888,
+    "usb_port"         : "/dev/ttyACM0",
+    "baudrate"         : 115200,
+    "rx_samples"       : 40000
+}

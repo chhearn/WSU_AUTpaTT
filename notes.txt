@@ -1,0 +1,7 @@
+file browser instead of having to type in long filenames for plots
+put frequency and header comments in json file.  prompt if missing
+put json filename as aya.argv but default if missing
+
+is fast AM scan radio data correlated to motor or just estimated by timing?
+
+can we do the motor and radio inside gnuradio graph instead of external python

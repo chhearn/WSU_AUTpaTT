@@ -1,0 +1,6 @@
+{
+    "comment"          : "This file jsut scans a short range of angles for testing",
+    "mast_start_angle" : -10,
+    "mast_end_angle"   : 10,
+    "mast_steps"       : 5
+}
